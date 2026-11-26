@@ -1,0 +1,1 @@
+hello.py - вывод приветствия, calculator.py - калькулятор, fio_writer.py - запись ФИО в файл
